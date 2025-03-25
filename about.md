@@ -2,9 +2,9 @@
 lang-ref: about
 title: About
 # description: Lorem markdownum spatium limes indefessus neque at orat aestuat
-background: /assets/images/placeholders/hp-about.jpg
+background: /assets/images/placeholders/hp-cover2.jpg
 imageLicense: |
-  Felix R, Bouwman J, Odé B, Ketelaar R, Pham DM, Bailey J (2025) The grasshoppers and crickets (Orthoptera) of the Socotra Archipelago (Yemen): a comprehensive overview and a description of a new _Oecanthus_ Tree Cricket (Oecanthidae). Contributions to Entomology 75(1): 21-166. [https://doi.org/10.3897/contrib.entomol.75.e144389](https://doi.org/10.3897/contrib.entomol.75.e144389)
+  Díaz-Grisales V, Romero-Nápoles J, González-Hernández H, Girón Duque JC, Bautista-Martínez N, Castañeda-Vildózola Álvaro, Anzaldo S, Lourenção AL (2024) Host plants of the weevil genus _Heilipus_ Germar, 1824 (Coleoptera, Curculionidae, Molytinae, Molytini, Hylobiina). Contributions to Entomology 74(2): 217-234. [https://doi.org/10.3897/contrib.entomol.74.e129094](https://doi.org/10.3897/contrib.entomol.74.e129094)
 height: 70vh
 ---
 
