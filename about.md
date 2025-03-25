@@ -2,25 +2,24 @@
 lang-ref: about
 title: About
 # description: Lorem markdownum spatium limes indefessus neque at orat aestuat
-background: /assets/images/placeholders/bdj-hp-about.jpg
+background: /assets/images/placeholders/hp-about.jpg
 imageLicense: |
-  Yu H, Zhang C, Lu Q, Lin Y (2024) A survey of Hersilia spiders (Araneae, Hersiliidae) from Xishuangbanna, Yunnan Province, China. Biodiversity Data Journal 12: e142805. [https://doi.org/10.3897/BDJ.12.e142805](https://doi.org/10.3897/BDJ.12.e142805)
+  Felix R, Bouwman J, Odé B, Ketelaar R, Pham DM, Bailey J (2025) The grasshoppers and crickets (Orthoptera) of the Socotra Archipelago (Yemen): a comprehensive overview and a description of a new _Oecanthus_ Tree Cricket (Oecanthidae). Contributions to Entomology 75(1): 21-166. [https://doi.org/10.3897/contrib.entomol.75.e144389](https://doi.org/10.3897/contrib.entomol.75.e144389)
 height: 70vh
 ---
 
-This is а GBIF Hosted Portal, displaying data extracted or associated with articles published in [Biodiversity Data Journal](https://bdj.pensoft.net/).
+This is а GBIF Hosted Portal, displaying data extracted or associated with articles published in [Contributions to Entomology](https://contributions-to-entomology.arphahub.com/).
 
-**Biodiversity Data Journal (BDJ)** is a community peer-reviewed, open access, comprehensive online platform, designed to accelerate publishing, dissemination and sharing of biodiversity-related data of any kind. All structural elements of the articles – text, morphological descriptions, occurrences, data tables etc. – will be treated and stored as data, in accordance with the Data [Publishing Policies and Guidelines of Pensoft Publishers](https://doi.org/10.3897/rio.3.e12431).
+**Contributions to Entomology** publishes original contributions on insect systematics, taxonomy, phylogeny, zoogeography, faunistics, ecology, applied entomology, entomological bibliography, and the history of entomology, mainly in the English or German languages.
 
-The journal will publish papers in biodiversity science containing taxonomic, floristic/faunistic, morphological, genomic, phylogenetic, ecological or environmental data on any taxon of any geological era from any part of the world with no lower or upper limit to manuscript size. For example:
+All submissions are reviewed by the editorial team, by a member of the editorial board, and by at least one external reviewer (peer review).
 
-* single taxon treatments and nomenclatural acts (e.g., new taxa, new taxon names, new synonyms, changes in taxonomic status, re-descriptions, etc.);
-* data papers describing biodiversity-related databases, including ecological and environmental data;
-* sampling reports, local observations or occasional inventories, if these contain novel data;
-* local or regional checklists and inventories;
-* habitat-based checklists and inventories;
-* ecological and biological observations of species and  communities;
-* any kind of identification keys, from conventional dichotomous to multi-access interactive online keys;
-* descriptions of biodiversity-related software tools.
-  
-For more information, you may look at the Editorial [Beyond dead trees: integrating the scientific process in the Biodiversity Data Journal](https://bdj.pensoft.net/articles.php?id=995) and press release [The Biodiversity Data Journal: Readable by humans and machines](http://www.eurekalert.org/pub_releases/2013-09/pp-tbd091613.php).
+Publisher is the "Senckenberg Deutsches Entomologisches Institut" in Müncheberg. The journal is an official publication of the "Deutsche Gesellschaft für allgemeine und angewandte Entomologie" (DGaaE).
+
+Since 2017 (volume 67, issue 1) the "Contributions to Entomology = Beiträge zur Entomologie " has been published as an open access journal (online ISSN 2511-6428). No fees are levied for submitting, reviewing, and proofreading of manuscripts, or for reading and downloading the articles. The articles are licensed under the terms of CC BY 4.0. Metadata and references of each article are offered digitally for use in literature management programs.
+
+The printed issue, appearing in parallel (print ISSN 0005-805X), serves to ensure sustainable archiving in libraries, and the effective exchange of publications with currently more than 330 partners in 60 countries.
+
+The journal "Beiträge zur Entomologie " was founded in 1951 by the "Deutsches Entomologisches Institut". In the past years, up to and including volume 66, about 1850 articles by 950 authors were published in 6 languages. All previous contributions have been digitized and made accessible in the archive.
+
+All content published in Contributions to Entomology is transferred to the German National Library (DNB) for the purpose of long-term archiving.
